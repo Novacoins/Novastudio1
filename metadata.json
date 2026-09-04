@@ -1,0 +1,6 @@
+{
+  "name": "Nova Studio HQ",
+  "description": "Portfolio and studio showcase for Nova Studio featuring mobile & web development services, project showcases, certifications, and payment integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
